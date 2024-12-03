@@ -1,0 +1,9 @@
+path: \ECE\Inge_3\S1\IR\Traffic1\\dataset
+train: \ECE\Inge_3\S1\IR\Traffic1\\dataset\images\train
+val: \ECE\Inge_3\S1\IR\Traffic1\\dataset\images\val
+
+# Number of classes in your dataset
+nc: 2  # Change to the number of object classes
+
+# Class names
+names: ['person', 'car']  # Update with your class names
